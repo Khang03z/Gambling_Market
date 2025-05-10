@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme_content = """
 # 🪙 Gambling Market DApp
 
 Một ứng dụng phi tập trung (DApp) cho phép người dùng đặt cược vào các sự kiện có kết quả nhị phân (Yes/No), sử dụng ví MetaMask và smart contract trên Ethereum.
@@ -18,14 +16,7 @@ Một ứng dụng phi tập trung (DApp) cho phép người dùng đặt cượ
 
 ---
 
-## 🏗️ Cấu trúc thư mục
-├── artifacts/ # (Tùy chọn) Tệp build đầu ra từ Hardhat
-├── cache/ # (Tùy chọn) Bộ nhớ tạm của Hardhat
-├── contracts/ # Smart contracts (Solidity)
-├── frontend/ # Ứng dụng React (UI)
-├── scripts/ # Script deploy contract
-├── test/ # Kiểm thử contract
-├── hardhat.config.js # Cấu hình Hardhat
+
 
 
 
